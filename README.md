@@ -13,7 +13,6 @@ CivicWatch is a mobile platform that enables citizens to report and track local 
 - 🔔 **Notifications** to users on status changes  
 - 🛠 **Admin Dashboard** for managing and prioritizing reports  
 - 🏆 **Gamification**: Badges, points, and leaderboards  
-- 🌐 **Offline Mode** with background sync  
 - 🧹 **Duplicate & Fake Report Detection**
 
 ---
