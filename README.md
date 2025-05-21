@@ -32,11 +32,6 @@ CivicWatch is a mobile platform that enables citizens to report and track local 
 
 ---
 
-## 📊 Architecture Diagram
-> [Include a system architecture image here if available]
-
----
-
 ## 💡 How it Works
 
 1. Users report issues via the app.
