@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">CivicWatch</string>
+    
+    <!-- Navigation -->
+    <string name="nav_home">Inicio</string>
+    <string name="nav_report">Reportar</string>
+    <string name="nav_map">Mapa</string>
+    <string name="nav_ranking">Ranking</string>
+    <string name="nav_profile">Perfil</string>
+    
+    <!-- Location Messages -->
+    <string name="location_getting">Obteniendo ubicación...</string>
+    <string name="location_unavailable">Ubicación no disponible</string>
+    <string name="location_unknown">Ubicación desconocida</string>
+    
+    <!-- ImgBB Configuration -->
+    <string name="imgbb_api_key">aaf02bffb4ffcf04584851be228882bb</string>
+    
+    <!-- Maps.co Configuration -->
+    <string name="maps_co_api_key">68fddb1cb0bf1585562139gez24d34e</string>
+    
+    <!-- Issue Categories -->
+    <string name="category_potholes">Baches</string>
+    <string name="category_streetlights">Farolas</string>
+    <string name="category_garbage">Basura</string>
+    <string name="category_waterlogging">Inundación</string>
+    <string name="category_damaged_roads">Carreteras Dañadas</string>
+    <string name="category_broken_sidewalks">Aceras Rotas</string>
+    <string name="category_vandalism">Vandalismo</string>
+    <string name="category_other">Otro</string>
+    
+    <!-- Issue Severity -->
+    <string name="severity_low">Baja</string>
+    <string name="severity_medium">Media</string>
+    <string name="severity_high">Alta</string>
+    
+    <!-- Issue Status -->
+    <string name="status_reported">Reportado</string>
+    <string name="status_verified">Verificado</string>
+    <string name="status_notified">Notificado</string>
+    <string name="status_in_progress">En Progreso</string>
+    <string name="status_resolved">Resuelto</string>
+    <string name="status_rejected">Rechazado</string>
+    
+    <!-- Authentication -->
+    <string name="sign_in_with_google">Iniciar sesión con Google</string>
+    <string name="sign_up_with_google">Registrarse con Google</string>
+    <string name="sign_in">Iniciar Sesión</string>
+    <string name="sign_up">Registrarse</string>
+    <string name="email">Correo</string>
+    <string name="password">Contraseña</string>
+    <string name="confirm_password">Confirmar Contraseña</string>
+    <string name="forgot_password">¿Olvidaste tu contraseña?</string>
+    <string name="dont_have_account">¿No tienes cuenta? Regístrate</string>
+    <string name="already_have_account">¿Ya tienes cuenta? Inicia sesión</string>
+    
+    <!-- Home Screen -->
+    <string name="app_title">Civicwatch</string>
+    <string name="stat_issues">Problemas</string>
+    <string name="stat_notified">Notificado</string>
+    <string name="stat_resolved">Resuelto</string>
+    <string name="empty_issues_title">No hay problemas reportados aún</string>
+    <string name="empty_issues_message">Sé el primero en reportar un problema en tu comunidad</string>
+    <string name="btn_report_first">Reportar Primer Problema</string>
+    <string name="cd_report_issue">Reportar Problema</string>
+    <string name="cd_civicwatch_logo">Icono Escudo CivicWatch</string>
+    <string name="cd_map">Mapa</string>
+    <string name="cd_rankings">Rankings</string>
+    <string name="cd_profile">Perfil</string>
+    
+    <!-- User Issues Screen -->
+    <string name="title_your_reports">Tus Reportes</string>
+    <string name="dialog_delete_title">Eliminar Problema</string>
+    <string name="dialog_delete_message">¿Estás seguro de que quieres eliminar este problema? Esta acción no se puede deshacer.</string>
+    <string name="btn_delete">Eliminar</string>
+    <string name="btn_cancel">Cancelar</string>
+    <string name="cd_back">Atrás</string>
+    
+    <!-- Issue Card -->
+    <string name="cd_view_on_map">Ver en Mapa</string>
+    <string name="no_image_available">No hay imagen disponible</string>
+    <string name="time_just_now">Justo ahora</string>
+    <string name="time_minutes_ago">hace %d m</string>
+    <string name="time_hours_ago">hace %d h</string>
+    <string name="cd_issue_image">Imagen del Problema</string>
+    <string name="cd_thumbs_up">Pulgar Arriba</string>
+    <string name="cd_upvote">Votar a favor</string>
+    <string name="cd_downvote">Votar en contra</string>
+    <string name="cd_comments">Comentarios</string>
+    <string name="cd_share">Compartir</string>
+    <string name="cd_more_options">Más Opciones</string>
+    <string name="menu_delete_issue">Eliminar Problema</string>
+    
+    <!-- Share -->
+    <string name="share_title">Mira este problema en CivicWatch:</string>
+    <string name="share_category">Categoría: %s</string>
+    <string name="share_status">Estado: %s</string>
+    <string name="share_description">Descripción: %s</string>
+    <string name="share_location">Ubicación: %s</string>
+    <string name="share_image">Imagen: %s</string>
+    <string name="share_footer">¡Ayuda a mejorar nuestra ciudad! Descarga CivicWatch.</string>
+    <string name="share_chooser_title">Compartir problema vía</string>
+</resources>
